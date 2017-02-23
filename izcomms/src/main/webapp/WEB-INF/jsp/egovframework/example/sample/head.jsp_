@@ -1,0 +1,73 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div class="head" style="margin-top:-9px;">
+		<div style="width: 270px; height: 120px; float: left">
+			<img src="./resources/img/logo.jpg" width="264" height="119" />
+		</div>
+		<div style="text-align: right; float: right;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+				<tr>
+					<td>
+						<a href="./scdulList.do">
+							<img src="./resources/img/top_menu_sche.jpg" width="118" height="26" />
+						</a>
+					</td>		
+				    <td width="7"></td>
+				    <td>
+				    	<a href="#">
+				    		<img src="./resources/img/top_menu_mail.jpg" width="118" height="26" />
+				    	</a>
+				    </td>
+				    <td width="7"></td>
+				    <td>
+				    	<a href="#">
+				    		<img src="./resources/img/top_menu_adv.jpg" width="118" height="26" />
+				    	</a>
+				    </td>
+				    <td width="8"></td>
+				    <td>
+				    	<a href="#">
+				    		<img src="./resources/img/top_menu_admin.jpg" width="118" height="26" />
+				    	</a>
+				    </td>
+				    <td width="7"></td>
+				    <td>
+				    	<a href="#">
+				    		<img src="./resources/img/top_menu_logout.jpg" width="118" height="26" />
+				    	</a>
+				    </td>
+				</tr>
+				<tr>
+					<td rowspan="2" height="10px;">
+					</td>
+				</tr>
+				<tr>
+					<td>
+					</td>
+				</tr>
+				<tr>
+					<td height="20px;" width="1000px;">
+						<img src="./resources/img/id_icon.jpg" width="22" height="23" /> XXXXXXXX님 환영합니다.
+						<span class="txt01" style="background:url('./resources/img/bg01.jpg');">
+							전월개인매출 : 100,000,000,000,000
+						</span>
+						<span style="background:url('./resources/img/bg02.jpg');">
+							당월예상배당건 : 100/150
+						</span>
+						<span>
+							(진행율 87.1%)
+						</span>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</body>
+</html>

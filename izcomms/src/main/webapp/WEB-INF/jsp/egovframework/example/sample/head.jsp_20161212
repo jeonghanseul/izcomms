@@ -1,0 +1,33 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div>
+		이미지 영역
+	</div>
+	<div>
+		<ul>
+			<li>
+				<a href="./scdulList.do">스케줄러</a>
+				<a href="#">메일관리</a>
+				<a href="#">광고주관리</a>
+				<a href="#">관리자</a>
+				<a href="#">로그아웃</a>
+			</li>
+			<li>
+				XXXXXXXX님 환영합니다.
+			</li>
+			<li>
+				전월개인매출 : 100,000,000,000,000
+				당월예상배당건 : 100/150
+				(진행율 87.1%)
+			</li>
+		</ul>
+	</div>
+</body>
+</html>

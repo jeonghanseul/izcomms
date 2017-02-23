@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* SIR 지?�아�?*/
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+/* 초기??*/
+.txt01 { font-size:13px; color:#fff; text-align:center; padding:0 0 2px 0;
+}
+.txt02 { font-size:13px; color:#fff; text-align:center; padding:0 0 2px 0;
+}
+.txt03 {  padding:0 0 0 5px;
+}
+ul{  list-style:none;
+}
+
+
+.right_calendar tr td {
+	width:300px;  }
+
+right_calendar_content tr  td {
+	width:300px; height:125px; }
